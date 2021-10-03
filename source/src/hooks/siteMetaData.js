@@ -11,8 +11,8 @@ const useSiteMetadata =
             style
             layout
             social {
-              dev
-              twitter
+              
+              
               linkedIn
             }
           }
